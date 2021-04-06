@@ -10,7 +10,7 @@ export const Login = (props) =>{
             </div>
             <div className = "content">
                 <div className="image">
-                    <img alt="loginImage" src={"./img/login.jpg"}/>
+                    <img alt="loginImage" src={"./img/login2.png"}/>
                 </div>
                 <div className="form">
                     <div className="form-group">
