@@ -4,7 +4,7 @@ import React from 'react';
 
 export const Login = (props) =>{
     return (
-        <div className="base-container">
+        <div className="base-container" ref={props.containerRef}>
             <div className="header">
                 Login
             </div>

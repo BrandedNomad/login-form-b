@@ -4,7 +4,7 @@ import React from 'react';
 
 export const Register = (props) =>{
     return (
-        <div className="base-container">
+        <div className="base-container" ref={props.containerRef}>
             <div className="header">
                 Register
             </div>
